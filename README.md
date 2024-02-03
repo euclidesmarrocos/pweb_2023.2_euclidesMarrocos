@@ -1,5 +1,5 @@
 # pweb_2023.2_euclidesMarrocos
-Um repositório para a disciplina pweb
+
 ⚜️Olá, me chamo Euclides
 
 🔭Me interesso bastante por astronomia
