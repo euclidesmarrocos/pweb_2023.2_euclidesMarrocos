@@ -1,19 +1,33 @@
-body{
-    font-family: sans-serif;
-    width: 80%;
-    margin: auto;
-
-.menu a {
+*{
+    margin: o;
     padding: 0;
-    background-color: #868dcf;
-    text-decoration: none;
-    padding: 16px;
-}  
-
-  
-.menu a:hover {
-    background-color: darkblue;
-    color: white
+    box-sizing: border-box;
 }
 
+.container{
+    max-width: 1080p;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: #000000;
+    width: 100%;
+}
+
+.menu,.informações{
+    width: 25%;
+}
+
+.menu{
+    width: 50%;
+}
+
+.menu nav a{
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 18px;
 }
