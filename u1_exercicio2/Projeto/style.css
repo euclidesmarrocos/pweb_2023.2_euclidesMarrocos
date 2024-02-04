@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    width: 80%;
+    margin: auto;
+
+.menu a {
+    padding: 0;
+    background-color: #868dcf;
+    text-decoration: none;
+    padding: 16px;
+}  
+
+  
+.menu a:hover {
+    background-color: darkblue;
+    color: white
+}
+
+}
